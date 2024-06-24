@@ -44,16 +44,11 @@ A robust and secure API implementation using Express.js, featuring advanced auth
 | `GET /profile` | Fetch user profile | JWT |
 
 ## 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/secure-express-api.git
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
-3. Configure environment:
+2. Configure environment:
    - Copy `.env.example` to `.env`
    - Populate with your specific credentials:
      ```
